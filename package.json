@@ -1,0 +1,19 @@
+{
+	"name": "spon-snowpack-starter",
+	"version": "1.0.0",
+	"license": "MIT",
+	"keywords": [
+		"csa-template"
+	],
+	"publishConfig": {
+		"access": "public"
+	},
+	"scripts": {
+		"start": "snowpack dev",
+		"build": "snowpack build"
+	},
+	"dependencies": {},
+	"devDependencies": {
+		"snowpack": "^2.8.0"
+	}
+}
